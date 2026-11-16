@@ -15,3 +15,4 @@ brew install alxrxs/tap/<name>
 | `louder` | [Louder](https://github.com/alxrxs/louder): turn your Mac up past 100%, for every app or just some |
 | `rocei-connector` | [RO CEI Connector](https://github.com/alxrxs/ROCEIConnector): plug in your Romanian ID card and your Mac just uses it |
 | `signer` | [Signer](https://github.com/alxrxs/signer): sign PDFs with your ID card or USB token, with a visible stamp |
+| `p7s-opener` | [P7S Opener](https://github.com/alxrxs/p7s-opener): double-click a .p7s file and get the document inside |
